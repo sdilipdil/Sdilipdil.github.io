@@ -137,7 +137,7 @@ Our wearable device utilizes motion sensors to match user's postures with predef
                     <table><tr>
                     <td>
                     <!--Image field-->
-                    <img src="http://www.itcinfotech.com/Images/GUI/Banners/News-and-updates/ITC_iTech_Event-Page-Banner-1.jpg" alt="iTech2015" width="80" height="100" /> &nbsp;&nbsp;
+                    <img src="http://www.itcinfotech.com/Images/GUI/Banners/News-and-updates/ITC_iTech_Event-Page-Banner-1.jpg" alt="iTech2015 by ITC InfoTech " width="80" height="100" /> &nbsp;&nbsp;
                     </td>
                     <td>
                     <!--Text field-->
@@ -162,3 +162,49 @@ Our wearable device utilizes motion sensors to match user's postures with predef
 </tr>
 <!--Can add more rows to the first table here.-->
 </table>
+
+<table>
+<!--First row of first table.-->
+<tr>
+<td>
+          <!--Second Table within first table starts here.-->
+          <table> 
+          <tr><td>
+          <!--First data field in the second table.-->
+          <!--Creating a table within the first field instead of partitioning it-->
+                    <table><tr>
+                    <td>
+                    <!--Image field-->
+                    <img src="https://namratab94.files.wordpress.com/2015/07/hackindia.jpg?w=851&h=315&crop=1" alt="Hack India " width="80" height="100" /> &nbsp;&nbsp;
+                    </td>
+                    <td>
+                    <!--Text field-->
+                  
+                    <table>
+            <tr><td id="images"><a href="http://Sdilipdil.github.io/2015-06-5-pdhc2015-post/">Hackindia</a></td></tr> 
+                <tr><td style="font-size:20px;">On 18th & 19th July 2015</td></tr></table>
+            </table>
+                    </td>
+                    </tr></table>
+          </td></tr>
+          <br>
+          <tr><td>
+           <!--Second data field in the second table.-->
+           <div class="vertically-centered">
+         The developed wearable can be used by a normal parents, the baby monitor helps pacify the parents by allowing them to check in on their sleeping baby without having to enter the room. But wearable uses its machine-learning technology to send parents a push notification when they cannot pay full attention, such as in the shower or when taking a nap. It pairs a wearable band with a mobile app to deliver the results of measurements in real time such as:
+•	Predicting when the baby will wake up
+•	If the baby rolled over
+•	The baby’s mood when he or she wakes up
+•	The room temperature
+•	Baby sleep patterns
+
+          </div>
+          </td></tr>
+          </table>
+           <!--Second Table within first table ends here.-->
+</td>
+</tr>
+<!--Can add more rows to the first table here.-->
+</table>
+
+
