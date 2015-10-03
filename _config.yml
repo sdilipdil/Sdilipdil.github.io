@@ -1,5 +1,4 @@
 # --- Serving options --- #
-
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -14,21 +13,23 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: S.Dilip
+title: Dilip.S
 
 # Short description of your site
-description: A virtual proof that name is awesome!edit
+description: Neonatal Screening Device
 
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://github.com/settings/profile"
+avatar: "/img/avatar_icon.png"
 
 # List of links in the navigation bar
 navbar-links:
   Home: ""
   About Me: "aboutme"
+  Projects: "projects"
+  Hackathon: "hackathon"
   Contact: "contact"
   
 # --- Footer options --- #
@@ -36,27 +37,27 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "users/3943160/daattali"
+  name: Dilip.S
+  email: "sdilipdil@gmail.com"
+  facebook: profile.php?id=100005652960609  # eg. daattali
+  github: Sdilipdil    # eg. daattali
+  twitter: Sdilipdil   # eg. daattali
+  linkedin: "pub/dilip-s/a0/939/bab"  # eg. "pub/dean-attali/8/946/143"
+  stackoverflow:   # eg. "users/3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#---url-pretty: "MyWebsite.com"---#  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -95,50 +96,16 @@ exclude:
   - LICENSE
   - README.md
 
-# prose.io config
+# prose.io options
 prose:
-  rooturl: '_posts'
-  media: 'img'
   ignore:
     - 404.html
     - LICENSE
     - feed.xml
-    - _config.yml
-    - /_layouts
     - /_includes
+    - /_layouts
     - /css
     - /img
     - /js
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
-  
+    
 # Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
