@@ -124,3 +124,41 @@ Our wearable device utilizes motion sensors to match user's postures with predef
 </tr>
 <!--Can add more rows to the first table here.-->
 </table>
+
+<table>
+<!--First row of first table.-->
+<tr>
+<td>
+          <!--Second Table within first table starts here.-->
+          <table> 
+          <tr><td>
+          <!--First data field in the second table.-->
+          <!--Creating a table within the first field instead of partitioning it-->
+                    <table><tr>
+                    <td>
+                    <!--Image field-->
+                    <img src="http://www.itcinfotech.com/Images/GUI/Banners/News-and-updates/ITC_iTech_Event-Page-Banner-1.jpg" alt="iTech2015" width="80" height="100" /> &nbsp;&nbsp;
+                    </td>
+                    <td>
+                    <!--Text field-->
+                  
+                    <table>
+            <tr><td id="images"><a href="http://Sdilipdil.github.io/2015-06-5-pdhc2015-post/">iTech2015</a></td></tr> 
+                <tr><td style="font-size:20px;">On 4th & 5th July 2015</td></tr></table>
+            </table>
+                    </td>
+                    </tr></table>
+          </td></tr>
+          <br>
+          <tr><td>
+           <!--Second data field in the second table.-->
+           <div class="vertically-centered">
+          High expenditure on maintenance, huge loss of capital due to frequent factory shutdown and no way to keep track on the work done by the employees so we came up with an solution to track the health of machines with the help of Current Sensor, Accelerometer sensor and temperature sensor to continue monitoring the data, data uploaded on cloud which can be accessed from anywhere thus the basic analysis can be done.
+          </div>
+          </td></tr>
+          </table>
+           <!--Second Table within first table ends here.-->
+</td>
+</tr>
+<!--Can add more rows to the first table here.-->
+</table>
