@@ -61,7 +61,7 @@ subtitle: Challenge yourself to become better than yesterday, not others.
                   
                     <table>
             <tr><td id="images"><a href="http://Sdilipdil.github.io/2015-06-28-pdhc2015-post/">jugaadathon</a></td></tr> 
-                <tr><td style="font-size:20px;">On 27th September 2015</td></tr></table>
+                <tr><td style="font-size:20px;">On 28th June 2015</td></tr></table>
             </table>
                     </td>
                     </tr></table>
