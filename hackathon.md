@@ -31,7 +31,7 @@ subtitle: Challenge yourself to become better than yesterday, not others.
           <tr><td>
            <!--Second data field in the second table.-->
            <div class="vertically-centered">
-          The goal of the competition was to design and prototype an app that supports the collection and communication of health care data (clinical, consumer and environmental) to enable better-informed clinical decisions, more                      personalized care, and improve and benefit healthcare services in the country,Using Philips HealthSuite Digital                  Platform(HSDP), thus my team used an Internet Of Things based solution and won hackathon.
+          The goal of the competition was to design and prototype an app that supports the collection and communication of health care data (clinical, consumer and environmental) to enable better-informed clinical decisions, more personalized care, and improve and benefit healthcare services in the country,Using Philips HealthSuite Digital Platform(HSDP), thus my team used an Internet Of Things based solution and won hackathon.
           </div>
           </td></tr>
           </table>
