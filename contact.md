@@ -1,7 +1,7 @@
 ---
-layout: minimal
-js: "/js/contact.js"
-css: "/css/contact.css"
-googlefonts: Lobster
+layout: page
+title: Contact
+subtitle: Get in touch.
 ---
-+91 8880999523
+<!---<img src="http://www.fullhdwpp.com/wp-content/uploads/Routine-Text-8_www.FullHDWpp.com_.jpg" width="750" height="300"/>-->
+<p><center>+91-8880999523</center></p>
