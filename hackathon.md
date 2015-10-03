@@ -192,7 +192,7 @@ Our wearable device utilizes motion sensors to match user's postures with predef
            <!--Second data field in the second table.-->
            <div class="vertically-centered">
          The developed wearable can be used by a normal parents, the baby monitor helps pacify the parents by allowing them to check in on their sleeping baby without having to enter the room. But wearable uses its machine-learning technology to send parents a push notification when they cannot pay full attention, such as in the shower or when taking a nap. It pairs a wearable band with a mobile app to deliver the results of measurements in real time such as:
-•	Predicting when the baby will wake up
+</u1>•	Predicting when the baby will wake up<u1/>
 •	If the baby rolled over
 •	The baby’s mood when he or she wakes up
 •	The room temperature
