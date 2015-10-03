@@ -81,3 +81,46 @@ https://www.healthcareexecutive.in/family-planningand-telemedicine-take-top-priz
 </tr>
 <!--Can add more rows to the first table here.-->
 </table>
+
+<table>
+<!--First row of first table.-->
+<tr>
+<td>
+          <!--Second Table within first table starts here.-->
+          <table> 
+          <tr><td>
+          <!--First data field in the second table.-->
+          <!--Creating a table within the first field instead of partitioning it-->
+                    <table><tr>
+                    <td>
+                    <!--Image field-->
+                    <img src="http://collap.com/uploads/shruti/projectnotesPic/2015-02-12_01:08:47pm_inteliotroadshow_png.jpg" alt="inteliotroadshow" width="80" height="100" /> &nbsp;&nbsp;
+                    </td>
+                    <td>
+                    <!--Text field-->
+                  
+                    <table>
+            <tr><td id="images"><a href="http://Sdilipdil.github.io/2015-04-12-pdhc2015-post/">inteliotroadshow</a></td></tr> 
+                <tr><td style="font-size:20px;">On 11th & 12th April 2015</td></tr></table>
+            </table>
+                    </td>
+                    </tr></table>
+          </td></tr>
+          <br>
+          <tr><td>
+           <!--Second data field in the second table.-->
+           <div class="vertically-centered">
+           We developed a wearable device that allows people to match their posture and track,monitor your movements in real time, critique them, and give advice on to improve your workout.
+We are trying to solve two major problems faced by People working out.
+a. The biggest issues faced during workout is getting injured. The injury rate is 21% .Everyday in US approximately 10,000 people get admitted to emergencies due to workout injuries.
+b. People want to get best results for limited time they spend on workout in midst of their busy life.
+
+Our wearable device utilizes motion sensors to match user's postures with predefined proper postures .The devices provides hap-tic feedback to engage the user to help push for perfection.The devices tracks various parameters involved with the user motion which get stored in the cloud to help analyze and improve the workout for better results with the help of an app.
+          </div>
+          </td></tr>
+          </table>
+           <!--Second Table within first table ends here.-->
+</td>
+</tr>
+<!--Can add more rows to the first table here.-->
+</table>
