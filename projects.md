@@ -20,7 +20,7 @@ subtitle: Projects Completed
                     <!--Text field-->
                   
                     <table>
-            <tr><td id="images"><a href="http://Sdilipdil.github.io/2015-09-27-pdhc2015-post/">Philips Digital Healthcare Conclave 2015</a></td></tr> 
+            <tr><td id="images"><a href="http://silverfoxa.github.io/2015-09-27-pdhc2015-post/">Philips Digital Healthcare Conclave 2015</a></td></tr> 
                 <tr><td style="font-size:20px;">On 27th September 2015</td></tr></table>
             </table>
                     </td>
